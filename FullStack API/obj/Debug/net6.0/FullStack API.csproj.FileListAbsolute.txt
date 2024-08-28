@@ -1,0 +1,65 @@
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\appsettings.Development.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\appsettings.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.exe
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.deps.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.runtimeconfig.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.pdb
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.csproj.AssemblyReference.cache
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.GeneratedMSBuildEditorConfig.editorconfig
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.AssemblyInfoInputs.cache
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.AssemblyInfo.cs
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.csproj.CoreCompileInputs.cache
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.MvcApplicationPartsAssemblyInfo.cs
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.MvcApplicationPartsAssemblyInfo.cache
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.build.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.development.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.FullStack API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.build.FullStack API.props
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FullStack API.props
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FullStack API.props
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\scopedcss\bundle\FullStack API.styles.css
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStac.E91C2285.Up2Date
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\refint\FullStack API.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.pdb
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.genruntimeconfig.cache
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\obj\Debug\net6.0\ref\FullStack API.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Humanizer.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NIBM\New folder\crud 2\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
